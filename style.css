@@ -1,0 +1,29 @@
+label{
+  color: rgb(11, 56, 139);
+
+}
+input{
+  border-radius: 5px;
+  box-shadow: 0 2px #999;
+  width: 210px;
+  margin: 10px;
+}
+button{
+  padding: 5px 15px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0 3px #999;
+  background-color: cornflowerblue;
+}
+button:hover {
+  background-color: rgb(5, 31, 80);
+}
+p{
+  background-color: rgb(97, 178, 245);
+  padding: 10px;
+}
